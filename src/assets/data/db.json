@@ -1,0 +1,42 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "model": "BMW X7",
+      "color": "Branca",
+      "price": 120000
+    },
+    {
+      "id": 2,
+      "model": "Mercedes Benz c180",
+      "color": "Preta",
+      "price": 180000
+    },
+    {
+      "id": 3,
+      "model": "Land Rover Range Rover Velar",
+      "color": "Branco",
+      "price": 350000
+    }
+  ],
+  "motos": [
+    {
+      "id": 4,
+      "model": "BMW X7",
+      "color": "Preto",
+      "price": 455.95
+    },
+    {
+      "id": 5,
+      "model": "Mercedes benz c180",
+      "color": "Azul",
+      "price": 194.9
+    },
+    {
+      "id": 6,
+      "model": "Land Rover Range Rover Velar",
+      "color": "Branco",
+      "price": 377.38
+    }
+  ]
+}
